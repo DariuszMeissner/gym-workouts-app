@@ -1,0 +1,49 @@
+.form-container-wrapper {
+  .wrong-validation {
+    color: red;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 300;
+    text-transform: uppercase;
+  }
+  .form-container-inner {
+    .form-inner {
+      .form-input {
+        display: flex;
+        border-bottom: 1px solid #f4e3b2;
+        margin-bottom: 15px;
+        padding: 5px;
+        .form-input-icon {
+        margin-right: 10px;
+        }
+        .form-input-field {
+          .input-regular {
+            background: transparent;
+            border: none;
+            outline: none;
+            &::placeholder {
+              font-size: 12px;
+              letter-spacing: 2px;
+            }
+          }
+        }
+        .form-submit-button {
+          .input-submit {
+            color: #050517;
+            text-transform: uppercase;
+            font-weight: 300;
+            background-color: #f4e3b2;
+            padding: 5px 15px;
+            border: none;
+          }
+        }
+      }
+      .form-submit {
+        display: flex;
+        justify-content: center;
+        border: none;
+        margin-bottom: 0;
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+$bg_protected: #fafafa;
+$red_protected: #db5461;
+.protected-container {
+  width: 100%;
+  height: 100%;
+  background: $bg_protected;
+
+}
+
+.d_flex {
+  display: flex;
+  flex-direction: column;
+}

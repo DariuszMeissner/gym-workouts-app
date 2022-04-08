@@ -1,0 +1,18 @@
+$bg_color: #f4e3b2;
+$font_color: #f4f4ed;
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Public Sans', sans-serif;
+}
+.gradient_background {
+  background: $bg_color;
+  height: 100vh;
+}
+
+.flex_center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
