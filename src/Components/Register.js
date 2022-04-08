@@ -31,7 +31,7 @@ const Register = ({email, setEmail, password, setPassword, error, setError, app}
     }
     return (
 
-        <div className={"main-container-wrapper"}>
+        <div className="main-container-wrapper d-">
             <div className={"main-container-inner"}>
                 <div className={"main-container-form flex_center"}>
                     <div className={"form-welcome-image flex_center"}>
