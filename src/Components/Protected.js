@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
-import { collection, getDocs } from "firebase/firestore";
 import { getAuth, signOut } from "firebase/auth";
-import { app, db } from "../Firebase/firebase";
+import { app } from "../Firebase/firebase";
 import "./Protected.scss";
 import { useNavigate } from "react-router-dom";
 const Protected = () => {
