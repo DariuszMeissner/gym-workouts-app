@@ -7,8 +7,11 @@ $font_color: #f4f4ed;
   font-family: 'Public Sans', sans-serif;
 }
 .gradient_background {
+  padding: 30px;
   background: $bg_color;
   height: 100vh;
+  display: flex;
+  justify-content: center;
 }
 
 .flex_center {

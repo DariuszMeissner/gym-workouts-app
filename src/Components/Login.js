@@ -82,5 +82,4 @@ const Login = ({email, setEmail, password, setPassword, error, setError, app}) =
 
     )
 }
-
 export default Login

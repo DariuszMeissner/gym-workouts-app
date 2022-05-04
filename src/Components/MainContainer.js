@@ -12,7 +12,7 @@ const MainContainer = () => {
             <div className={"main-container-inner"}>
                 <div className={"main-container-form flex_center"}>
                     <div className={"form-welcome-image flex_center"}>
-                        <i className="fas fa-dumbbell"></i>
+                        {/* <i className="fas fa-dumbbell"></i> */}
                     </div>
                     <div className={"form-welcome-text flex_center"}>
                         Welcome

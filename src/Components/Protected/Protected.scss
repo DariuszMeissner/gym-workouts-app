@@ -1,0 +1,30 @@
+$bg_protected: #fafafa;
+$red_protected: #db5461;
+.protected-container {
+  border: 1px solid black;
+  max-width: 350px;
+  width: 100%;
+  height: 500px;
+  background: $bg_protected;
+  display: flex;
+  flex-direction: column;
+  .protected-container-header {
+  
+  }
+  .protected-container-main {
+    padding-top: 20px;
+    .main-plan-name {
+      display: flex;
+    }
+    .main-plan-body-part {
+      padding-top: 20px;
+    }
+  }
+}
+
+.d_flex {
+  display: flex;
+  flex-direction: column;
+}
+
+// 

@@ -1,0 +1,490 @@
+{
+    "workout_body_part": [
+                            {
+                                "id":0,
+                                "body_part": "top",
+                                "category": ["chest","back","arms","shoulders","belly"]      
+                            }, 
+                            {
+                                "id":1,
+                                "body_part":"bottom",
+                                "category": ["legs","butt"]
+                            }
+                         ],
+    "workouts": [
+        {
+            "id":0,
+            "body_part": "top",
+            "category":"chest",
+            "workout_name":"Wyciskanie sztangi na ławce płaskiej"
+        },
+         {
+            "id":1,
+            "body_part": "top",
+            "category":"chest",
+            "workout_name":"Wyciskanie sztangi na skosie dodatnim"
+        },
+        {
+            "id":2,
+            "body_part": "top",
+            "category":"chest",
+            "workout_name":"Wyciskanie na ławce płaskiej hantlami"
+        },
+        {
+            "id":3,
+            "body_part": "top",
+            "category":"chest",
+            "workout_name":"Wyciskanie na ławce skośnej hantlami"
+        },
+        {
+            "id":4,
+            "body_part": "top",
+            "category":"chest",
+            "workout_name":"Krzyżowanie linek wyciągu górnego z góry do dołu"
+        },
+        {
+            "id":5,
+            "body_part": "top",
+            "category":"chest",
+            "workout_name":"Krzyżowanie linek wyciągu dolnego z dołu do góry"
+        },
+        {
+            "id":6,
+            "body_part": "top",
+            "category":"chest",
+            "workout_name":"Rozpiętki w leżeniu na ławce płaskiej/skośnej"
+        },
+         {
+            "id":7,
+            "body_part": "top",
+            "category":"chest",
+            "workout_name":"Rozpiętki w leżeniu na podłodze"
+        },
+        {
+            "id":8,
+            "body_part": "top",
+            "category":"chest",
+            "workout_name":"Bayesian Flyes"
+        },
+         {
+            "id":9,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Wyciskanie sztangi nad głowę stojąc"
+        },
+        {
+            "id":10,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Wyciskanie sztangi nad głowę siedząc"
+        },
+        {
+            "id":11,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Wyciskanie hantli nad głowę stojąc"
+        },
+        {
+            "id":12,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Wyciskanie hantli nad głowę siedząc"
+        },
+        {
+            "id":13,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Unoszenie hantli bokiem stojąc"
+        },
+        {
+            "id":14,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Unoszenie hantli bokiem w oparciu o ławkę brzuchem stojąc"
+        },
+        {
+            "id":15,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Przyciąganie sznurków do brody na wyciągu z dołu do góry"
+        },
+        {
+            "id":16,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Facepull"
+        },
+        {
+            "id":17,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Barbell Facepull"
+        },
+        {
+            "id":18,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Unoszenie bokiem w opadzie tułowia"
+        },
+        {
+            "id":19,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Odwrotne rozpiętki leżąc na ławce skośnej brzuchem"
+        },
+        {
+            "id":20,
+            "body_part": "top",
+            "category":"shoulders",
+            "workout_name":"Unoszenie ramion w bok na wyciągu"
+        },
+
+
+          {
+            "id":21,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"Plank klasyczny"
+        },
+          {
+            "id":22,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"Plank robiony na piłce"
+        },
+          {
+            "id":23,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"Plank z oddaleniem łokci do przodu"
+        },
+          {
+            "id":24,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"Kółeczko z siedzenia"
+        },
+          {
+            "id":25,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"Kółeczko ze stania"
+        },
+          {
+            "id":26,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"Unoszenie nóg w leżeniu/siedzeniu na ławce"
+        },
+          {
+            "id":27,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"Unoszenie nóg w zwisie na drążku"
+        },
+          {
+            "id":28,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"Allahy stojąc/klęcząc"
+        },
+          {
+            "id":29,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"„Spięcia” w pozycji „hollow body”"
+        },
+          {
+            "id":30,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"„Spięcia” w pozycji „hollow body” z hantlem"
+        },
+          {
+            "id":31,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"Plank boczny"
+        },
+         {
+            "id":32,
+            "body_part": "top",
+            "category":"belly",
+            "workout_name":"Woodchooper"
+        },
+        {
+            "id":33,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Uginanie hantli z supinacją nadgarstka"
+        },
+         {
+            "id":34,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Uginanie hantli młotkowe"
+        },
+         {
+            "id":35,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Uginanie hantli na modlitewniku"
+        },
+         {
+            "id":36,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Uginanie hantli siedząc w oparciu o ławkę"
+        },
+         {
+            "id":37,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Uginanie hantli 1 ręką w podporze o nogę"
+        },
+         {
+            "id":38,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Uginanie sztangi prostej stojąc"
+        },
+         {
+            "id":39,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Herkulesy"
+        },
+         {
+            "id":40,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Uginanie sztangi prostej na modlitewniku"
+        },
+         {
+            "id":41,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Bayesian Curls"
+        },
+        {
+            "id":42,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Uginanie hantli francuskie stojąc"
+        },
+        
+          {
+            "id":43,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Uginanie hantli francuskie siedząc"
+        },
+          {
+            "id":44,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Uginanie hantli /sztangi francuskie leżąc"
+        },
+          {
+            "id":45,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Prostowania ramion na wyciągu"
+        },
+          {
+            "id":46,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Dipy na poręczach"
+        },
+         {
+            "id":47,
+            "body_part": "top",
+            "category":"arms",
+            "workout_name":"Wyciskanie sztangi wąsko"
+        },
+         {
+            "id":47,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Podciągania na drążku"
+        },
+        {
+            "id":48,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Ściąganie linki/drążka wyciągu górnego do klatki"
+        },
+        {
+            "id":49,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Inverted row"
+        },
+        {
+            "id":50,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Wiosłowanie sztanga w opadzie tułowia"
+        },
+        {
+            "id":51,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Wiosłowanie hantlem w oparciu o ławkę"
+        },
+        {
+            "id":52,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Wiosłowanie hantlem w oparciu o stojak"
+        },
+        {
+            "id":53,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Pendlay Row"
+        },
+        {
+            "id":54,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Wiosłowanie końcem sztangi"
+        },
+        {
+            "id":55,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Wiosłowanie końcem sztangi 1 ręką stojąc bokiem"
+        },
+        {
+            "id":56,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"1.Martwy ciąg"
+        },
+        {
+            "id":57,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"2.Martwy ciąg na prostych nogach"
+        },
+        {
+            "id":58,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"3.Rumuński Martwy Ciąg"
+        },
+        {
+            "id":59,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Focze wiosło hantlami"
+        },
+        {
+            "id":60,
+            "body_part": "top",
+            "category":"back",
+            "workout_name":"Focze wiosło hantlami"
+        },
+
+         {
+            "id":61,
+            "body_part": "bottom",
+            "category":"legs",
+            "workout_name":"Przysiad Klasyczny"
+        },
+         {
+            "id":62,
+           "body_part": "bottom",
+            "category":"legs",
+            "workout_name":"Przysiad Low bar"
+        },
+         {
+            "id":63,
+          "body_part": "bottom",
+            "category":"legs",
+            "workout_name":"Front Squat"
+        },
+         {
+            "id":64,
+            "body_part": "bottom",
+             "category":"legs",
+            "workout_name":"Goblet Squat"
+        },
+         {
+            "id":65,
+          "body_part": "bottom",
+              "category":"legs",
+            "workout_name":"Przysiad bułgarski"
+        },
+         {
+            "id":66,
+          "body_part": "bottom",
+              "category":"legs",
+            "workout_name":"Wypychanie nóg na suwnicy"
+        },
+         {
+            "id":67,
+           "body_part": "bottom",
+              "category":"legs",
+            "workout_name":"Prostowanie nóg na maszynie"
+        },
+         {
+            "id":68,
+          "body_part": "bottom",
+              "category":"legs",
+            "workout_name":"Przysiad bułgarski"
+        },
+         {
+            "id":69,
+           "body_part": "bottom",
+              "category":"legs",
+            "workout_name":"Zakroki z hantlami"
+        },
+         {
+            "id":70,
+           "body_part": "bottom",
+              "category":"legs",
+            "workout_name":"Rumuński Martwy ciąg"
+        },
+         {
+            "id":71,
+            "body_part": "bottom",
+             "category":"legs",
+            "workout_name":"Uginanie nóg na maszynie siedząc"
+        },
+         {
+            "id":72,
+         "body_part": "bottom",
+              "category":"legs",
+            "workout_name":"Wspięcia na palce stojąc"
+        },
+         {
+            "id":73,
+            "body_part": "bottom",
+              "category":"legs",
+            "workout_name":"Wspięcia na palce siedząc"
+        },
+         {
+            "id":74,
+          "body_part": "bottom",
+              "category":"legs",
+            "workout_name":"Zakroki z hantalmi"
+        },
+         {
+            "id":75,
+         "body_part": "bottom",
+             "category":"legs",
+            "workout_name":"Uginanie nóg leżąc brzuchem na ławce hantlami miedzy stopami"
+        },
+         {
+            "id":76,
+        "body_part": "bottom",
+              "category":"legs",
+            "workout_name":"KickBacks na wyciągu"
+        }
+    ]                     
+}
+
+

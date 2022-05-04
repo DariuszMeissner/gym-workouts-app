@@ -5,7 +5,7 @@ import Login from "./Components/Login";
 import Register from "./Components/Register";
 import {app} from './Firebase/firebase';
 import './Components/MainContainer.scss';
-import Protected from "./Components/Protected";
+import Protected from "./Components/Protected/Protected";
 import { getAuth, onAuthStateChanged } from "firebase/auth";
 
 function App() {
@@ -18,12 +18,9 @@ function App() {
         onAuthStateChanged(getAuth(app), (user) => {
             if (user) {
                 setUser(user);
-                console.log(user);
-            } else {
+                } else {
                 setUser(false);
-                console.log('user: ',user);
             }
-            console.log('Działanie z useEffecta', user)
         });
     },[error]);
 
